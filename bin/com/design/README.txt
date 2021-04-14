@@ -1,7 +1,8 @@
 Design patterns are typical solutions to common problems, in software design.Each pattern is like a blueprint
 that you can customize to solve a particular design problem in your code.
 
-They represent the best practices used by experienced object-oriented software developers.
+They represent the best practices used by experienced object-oriented software developers.They are solutions to general problems 
+that software developers faced during software development. 
 
 
 SOLID principles of Object-Oriented Design.
