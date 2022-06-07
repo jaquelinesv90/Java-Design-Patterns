@@ -1,4 +1,0 @@
-Gof Definition: 
-
-
-Concept:
